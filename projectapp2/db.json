@@ -1,0 +1,66 @@
+{
+  "Resister": [
+    {
+      "name": "pushpendrapatel",
+      "email": "pushpendra@gmail.com",
+      "password": "Deepak8055@",
+      "id": "6p15IX1"
+    },
+    {
+      "name": "Ajeet singh",
+      "email": "Ajeet@gmail.com",
+      "password": "6359",
+      "id": "VIZQV40"
+    },
+    {
+      "name": "Avneesh kashyap",
+      "email": "avnessh@gmail.com",
+      "password": "789635",
+      "id": "oGeKXRs"
+    },
+    {
+      "name": "mahi Patel",
+      "email": "mahi@gmail.com",
+      "password": "6953",
+      "id": "XhyZvTW"
+    },
+    {
+      "name": "hulk",
+      "email": "hulk@gmail.com",
+      "password": "2222",
+      "id": "un5eYhb"
+    }
+  ],
+  "restoraunts": [
+    {
+      "name": "mba chaiwala",
+      "email": "mbachaiwala@gmail.com",
+      "city": "Raipur",
+      "id": 8
+    },
+    {
+      "name": "chaisutta bar",
+      "email": "chaisutta@gmail.com",
+      "city": "prayagraj",
+      "id": 9
+    },
+    {
+      "name": "burgerking",
+      "email": "burger@gmail.com",
+      "city": "jaipur",
+      "id": 10
+    },
+    {
+      "name": "Heritage hotel",
+      "email": "Heritage@gmail.com",
+      "city": "rewa",
+      "id": 11
+    },
+    {
+      "name": "pind baluchi",
+      "email": "Pindbaluchi@gmail.com",
+      "city": "Rewa",
+      "id": 12
+    }
+  ]
+}
